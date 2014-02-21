@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_hsv"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="HSV" />
+    <item
+        android:id="@+id/action_hsl"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="HSL" />
+    <item
+        android:id="@+id/action_lab"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="LAB" />
+
+</menu>
